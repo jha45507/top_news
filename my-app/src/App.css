@@ -1,0 +1,17 @@
+
+::-webkit-scrollbar {
+    display: none;
+  }
+
+  body{
+    background: rgb(69, 69, 69);
+  }
+
+  .mybox{
+    border-radius: 5px;
+    margin: 15px 0px;
+  }
+  .mybox:hover {
+    transform: scaleY(1);
+    box-shadow: 5px 5px 10px black;
+  }
